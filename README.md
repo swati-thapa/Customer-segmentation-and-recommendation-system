@@ -2,7 +2,7 @@
 
 ## About dataset:
 
-We will do our analysis based on online-retail. It contains all the transactions occurring for a UK-based non-store online retail between 01/12/2009 and 09/12/2011. The company mainly sells unique all-occasion gift-ware.
+We will do our analysis based on online-retail datset. It contains all the transactions occurring for a UK-based non-store online retail between 01/12/2009 and 09/12/2011. The company mainly sells unique all-occasion gift-ware.
 Dataset link: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 ## Problem statement:
